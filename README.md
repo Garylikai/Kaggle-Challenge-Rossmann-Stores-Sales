@@ -12,7 +12,7 @@ The project is a historical learning exercise. The analyses are exploratory, and
 
 ## Repository contents
 
-- primary Jupyter notebook
+- `analysis.ipynb` — primary Jupyter notebook
 - `Kaggle_Challenge.png` — leaderboard screenshot
 
 The competition's train, test, and store data are not included.
