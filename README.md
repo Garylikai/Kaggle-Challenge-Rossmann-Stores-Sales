@@ -4,7 +4,7 @@ A Fall 2021 CSE 519 course project using the [Rossmann Store Sales](https://www.
 
 ## Project overview
 
-The notebook merges store metadata with historical sales and examines patterns involving store identity, promotions, holidays, competition distance, and other store attributes. It then compares decision-tree and random-forest regressors using root mean squared percentage error (RMSPE).
+The notebook merges store metadata with historical sales and examines patterns involving store identity, promotions, holidays, competition distance, and other store attributes. It then compares decision tree and random forest regressors using root mean square percentage error (RMSPE).
 
 The reported validation RMSPE values were approximately 0.203 for the decision tree and 0.202 for the random forest. The associated Kaggle submissions scored about 0.724 and 0.706 on the public and private leaderboards, respectively.
 
